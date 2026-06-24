@@ -94,4 +94,12 @@ Using all the feedback I received, I made some adjustments to the website such a
 | An on-line application form | Yes | On the website, in the applications webpage there is a button that directs the user to the application form where users can submit it. 
 | Links to website development courses | Yes | On the website there is a webpage with 4 website development courses linked with buttons. 
 
+The website is suitable for the target audience due to the information within the website about Hot Beans recruitment and how to apply including what requirements there are for prospective employees. The colour scheme of the website is followed within the whole website. The colour scheme blue represents trust, security and peace for user which fits the purpose and draws the target audience in.  
+
+Comparison to alternative:
+
+| Alternative Feature | Strengths | Weaknesses | Why original is better 
+|:--------:|:------------:|:------------:|:--------------------------:
+| Dropdown menu | * It can declutter the websites * Takes up little space | * Hides the navigation and user's may not see * Not very accessible | In my design I used a navigation bar, it keeps all options for navigation clear and always on the screen, it takes up more space on the website, however can be more confusing for users and many not be compatible with screen readers as it has to be opened. 
+
 
