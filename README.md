@@ -100,6 +100,6 @@ Comparison to alternative:
 
 | Alternative Feature | Strengths | Weaknesses | Why original is better 
 |:--------:|:------------:|:------------:|:--------------------------:
-| Dropdown menu | * It can declutter the websites * Takes up little space | * Hides the navigation and user's may not see * Not very accessible | In my design I used a navigation bar, it keeps all options for navigation clear and always on the screen, it takes up more space on the website, however can be more confusing for users and many not be compatible with screen readers as it has to be opened. 
+| Dropdown menu | It can declutter the websites and takes up little space | It hides the navigation and user's may not see also not very accessible | In my design I used a navigation bar, it keeps all options for navigation clear and always on the screen, it takes up more space on the website, however can be more confusing for users and many not be compatible with screen readers as it has to be opened. 
 
 
