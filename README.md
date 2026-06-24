@@ -131,3 +131,17 @@ Skills Demonstrated:
 Within this project, I created a Gantt chart to ensure I followed time frames for the projects and ensured that all requirements were met according to the client brief. In some aspects of the project, I fell behind and had to reduce the time for other aspects. I fell behind mostly on the implementation as creating the code proved more difficult than expected. This gave me less time for the testing of the website however it overall worked out. Within this project I helped peers with their own projects, and they helped me for aspects we all struggled on. However, in the end the project was effectively completed on time and all the client requirements specified in the client brief were effectively met. In future projects I will plan out my time frames with more flexibility, to ensure to not fall behind. This project has taught me how to keep more effective time management for future projects. The project has also made me more proficient in using HTML and CSS for future projects.  
 
 I demonstrated accountability throughout the project by taking full responsibility whenever time frames were not effectively met. Errors that were identified within the website were promptly corrected, accepting responsibility. My approach to the project impacted the overall project positively and showed professionalism.
+
+### Overall: 
+
+Overall, within this project my least affective behaviour within the project was time management. I used a Gantt chart to track my progress; it allowed me to see how far I am within the project and if I am following the time frames correctly. This ensured that the design, implementation, testing and evaluation were all completed on time. This allowed me to have enough time allowing me to improve the website. 
+
+### Conclusion: 
+
+Overall, my performance positively affected my final website, the time frames set helped me follow them as closely as possible to ensure the assignment was completed on time. The feedback I received also helped me improve the website in aspects such as the accessibility of the website. 
+
+Some areas of improvement for the assignment is my time management, to ensure to follow the time frames decided perfectly rather than taking too long for one and then losing time for another.  
+
+This project allowed me to develop my HTML and CSS knowledge, project management and testing. The website produced effectively met client requirements and appeals to the target audience. 
+
+***
