@@ -102,4 +102,16 @@ Comparison to alternative:
 |:--------:|:------------:|:------------:|:--------------------------:
 | Dropdown menu | It can declutter the websites and takes up little space | It hides the navigation and user's may not see also not very accessible | In my design I used a navigation bar, it keeps all options for navigation clear and always on the screen, it takes up more space on the website, however can be more confusing for users and many not be compatible with screen readers as it has to be opened. 
 
+### Ease of use and compatibility: 
 
+The website is compatible as it can be accessed through multiple browsers and devices. This is important as it allows as many as possible users to be able to access the website. 
+
+A strength of the website is the simple navigation bar is easy for users to use and understand. It is important to the website so users can easily navigate between different webpages effectively. Another strength is that the website is accessible to users as the contrast in colours between the background and the text ensures that all users can easily read the text and the larger font size also ensures this. This is important as it makes the website accessible to more users.  
+
+A weakness of the website is the lack of interactivity within the website that is due to the fact I did not use JavaScript. In the future to improve the website I could implement JavaScript to then make the website more interactive for users.  
+
+Then a strength of the website is the consistent design, the header of each webpage is kept the same, with the logo and the name of Hot Beans at the top and underneath that is the navigation bar and search bar. This is kept consistent throughout the whole website.  
+
+In conclusion, in creating this project it taught me how to plan out the design of a website and how to create a website. In this project what went well was creating the design documents for this project as they were easy to make and then use to create the website. If I were to do a similar project in the future some improvements I would make is to implement JavaScript into the website so it can have interactive features for users. In the end, from this project I learnt how to effectively manage my time for a time-bound project and how to create a functional website. 
+
+***
