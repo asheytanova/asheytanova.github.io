@@ -71,3 +71,15 @@ Using all the feedback I received, I made some adjustments to the website such a
 | 2 | Images appeared too large on smaller screens | The incorrect type of sizing was used for the image. | I changed the way that the image was sized by using style = “width: %” |
 | 3 | The font size was too small on the website. | The font size used was too small. | I changed the font size to a larger font size so users can easily read the website. |
 
+***
+
+## Optimisation
+
+| Optimisation | Action | Effect |
+|:-------:|:-------------:|:-------------:|
+| Image compression | I reduced the file sizes using lossy compression. | This then made the website load faster.|
+| CSS optimisation | I ensured that there was not too much CSS by removing the unnecessary code. | This then made the website easier to later go back to and improve/maintain the code. This also made the code easier to understand. |
+| Responsive improvements | I used media CSS to make the website still appear with all the aspects on smaller screens. | This then allowed usability on all devices for all users. These devices include phones, tablets, laptops and PCs.|
+| Performance improvements | I got rid of the unnecessary parts of the website that were not necessary for the website. | This then made the website run smoother for users. |
+
+
