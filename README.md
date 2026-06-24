@@ -82,4 +82,16 @@ Using all the feedback I received, I made some adjustments to the website such a
 | Responsive improvements | I used media CSS to make the website still appear with all the aspects on smaller screens. | This then allowed usability on all devices for all users. These devices include phones, tablets, laptops and PCs.|
 | Performance improvements | I got rid of the unnecessary parts of the website that were not necessary for the website. | This then made the website run smoother for users. |
 
+***
+
+## Evaluation
+
+| Client requirement | Met? | How | 
+|:------:|:---------:|:--------:|
+| Include a company profile | Yes | On the website, one of the webpages is the company profile page that includes information about the website. | Appendix, Webpages, Company Profile 
+| Include profiles of existing web developers | Yes | On the website one of the webpages is about the existing web developers in the company. | Appendix, Webpages, Developers 
+| Include a job specification + Required qualifications | Yes | On the website, there is a webpage on the job specifications that also includes all information about the job include required qualifications. | Appendix, Webpages, Job specifications 
+| An on-line application form | Yes | On the website, in the applications webpage there is a button that directs the user to the application form where users can submit it. | Appendix, Webpages, Application Form 
+| Links to website development courses | Yes | On the website there is a webpage with 4 website development courses linked with buttons. | Appendix, Webpages, Courses 
+
 
