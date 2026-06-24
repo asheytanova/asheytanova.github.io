@@ -115,3 +115,19 @@ Then a strength of the website is the consistent design, the header of each webp
 In conclusion, in creating this project it taught me how to plan out the design of a website and how to create a website. In this project what went well was creating the design documents for this project as they were easy to make and then use to create the website. If I were to do a similar project in the future some improvements I would make is to implement JavaScript into the website so it can have interactive features for users. In the end, from this project I learnt how to effectively manage my time for a time-bound project and how to create a functional website. 
 
 ***
+
+## Personal Review
+
+Skills Demonstrated:
+
+| Skills | Example of use | Impact 
+|:-------:|:------------:|:-----------:
+| Proficiency in HTML and CSS | In making the website. | If I was unable to use HTML and CSS, I would not be able to create the website in the first place. 
+| Problem Solving | Response to feedback and adjustments made | The feedback told me what to improve on within the website and I figured out how to do it, without the feedback the adjustments made may not have fixed existing problems. 
+| Time Management | Completing the assignment and following the Gantt chart | If time was not effectively managed, it would have impacted being able to complete the assignment within the deadline.  
+
+
+
+Within this project, I created a Gantt chart to ensure I followed time frames for the projects and ensured that all requirements were met according to the client brief. In some aspects of the project, I fell behind and had to reduce the time for other aspects. I fell behind mostly on the implementation as creating the code proved more difficult than expected. This gave me less time for the testing of the website however it overall worked out. Within this project I helped peers with their own projects, and they helped me for aspects we all struggled on. However, in the end the project was effectively completed on time and all the client requirements specified in the client brief were effectively met. In future projects I will plan out my time frames with more flexibility, to ensure to not fall behind. This project has taught me how to keep more effective time management for future projects. The project has also made me more proficient in using HTML and CSS for future projects.  
+
+I demonstrated accountability throughout the project by taking full responsibility whenever time frames were not effectively met. Errors that were identified within the website were promptly corrected, accepting responsibility. My approach to the project impacted the overall project positively and showed professionalism.
