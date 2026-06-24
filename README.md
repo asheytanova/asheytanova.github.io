@@ -59,3 +59,15 @@ User 1 | Overall, your website is really good. I really like the colours of the 
 | User 3 | I would say for the website to keep the current features however; the form is not centred. The website easily opened on a smaller screen and the elements of the website just stacked on one another. It was still easy to understand and use the website. | I centred the form which made it look more aesthetically appealing. |
 
 Using all the feedback I received, I made some adjustments to the website such as keeping most of the features and just making more aesthetic adjustments than features. The font size was increased which also then makes the website more accessible to all users as it is easier to see and understand the larger text. This then improved the accessibility of my website. The navigation was kept the same as user 2 said it was easy to understand and use. So, I kept the navigation the same. The readability is affected by the font size; however, it is improved in response the feedback. 
+
+***
+
+## Problems Identified
+
+
+| Error | Problem Identified | Cause | Solution Applied |
+|:----:|:--------------:|:-----------:|:---------------:|
+| 1 | The form validation did not work correctly for the email. | Incorrect type was given to the input. | Changed the type of the input to check for an email to ensure data validation. 
+| 2 | Images appeared too large on smaller screens | The incorrect type of sizing was used for the image. | I changed the way that the image was sized by using style = “width: %” |
+| 3 | The font size was too small on the website. | The font size used was too small. | I changed the font size to a larger font size so users can easily read the website. |
+
